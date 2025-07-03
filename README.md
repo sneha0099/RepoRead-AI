@@ -37,8 +37,6 @@
 
 ---
 
-## Watch Demo
- - **Demo Video Link:** https://drive.google.com/file/d/1Gv-ztgzuj_OO7bv5jGBXnlqikpv5VydA/view?usp=drive_link
 
 ---
 ## ⭐ Support This Project
