@@ -35,7 +35,6 @@
    - The processed context is sent to the LLM, which generates a polished, developer-ready README.
    - The output includes detailed sections like Features, Installation, Project Architecture, API Routes, Tech Stack, and more.
 
----
 
 
 ---
